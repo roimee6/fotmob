@@ -24,7 +24,7 @@ This package is meant to be used in the backend (Node.js) due to CORS limitation
 All methods return a promise that resolves to the JSON response from FotMob, with type definitions for the response included.
 
 ```ts
-import Fotmob from "fotmob";
+import Fotmob from "@max-xoo/fotmob";
 const fotmob = new Fotmob();
 
 let matches = await fotmob.getMatchesByDate("20201020");
