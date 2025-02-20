@@ -1,4 +1,3 @@
-npm link
 // noinspection JSUnusedGlobalSymbols
 
 import axios from "axios";
