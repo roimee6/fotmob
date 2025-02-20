@@ -1,0 +1,33 @@
+{
+  "name": "@max-xoo/fotmob",
+  "version": "2.5.0",
+  "description": "A JavaScript wrapper around the unofficial FotMob API",
+  "keywords": [
+    "fotmob",
+    "soccer",
+    "api",
+    "football"
+  ],
+  "homepage": "https://github.com/roimee6/fotmob#readme",
+  "bugs": {
+    "url": "https://github.com/roimee6/fotmob/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roimee6/fotmob.git"
+  },
+  "license": "MIT",
+  "author": "Brian Greenwood & Maxence",
+  "type": "module",
+  "main": "dist/fotmob.js",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {}
+}
