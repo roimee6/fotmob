@@ -16,7 +16,7 @@ A JavaScript wrapper around the unofficial [FotMob](https://www.fotmob.com/) API
 ## Install
 
 ```sh
-npm install fotmob
+npm install @max-xoo/fotmob
 ```
 
 ## Usage
